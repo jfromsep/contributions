@@ -9,7 +9,7 @@ We use this repository to consolidate all monthly reports from our community con
 
 ### How often will you be paid?
 
-We consolidate and publish contributors' report on a monthly basis. You can expect a reward within 1 week after the report is available.
+You need to send us your report 2 days before the end of each month, then we will consolidate and publish contributors' report at the end of each month. You can expect a reward within 1 week after the report is available.
 
 ### Do you have a standard for rewarding different contributions?
 
