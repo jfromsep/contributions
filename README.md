@@ -4,8 +4,8 @@ We use this repository to consolidate all monthly reports from our community con
 
 ### How to submit your reports?
 
-- If you are not a developer, please send your report to our (Jay Zhou)[mailto:jay@loopring.org], our CMO.
-- If you are developer and have contributed pull requests, please send your report to (Daniel Wang)[mailto:daniel@loopring.org], our CEO.
+- If you are not a developer, please send your report to our [Jay Zhou](mailto:jay@loopring.org), our CMO.
+- If you are developer and have contributed pull requests, please send your report to [Daniel Wang](mailto:daniel@loopring.org), our CEO.
 
 ### How often will you be paid?
 
