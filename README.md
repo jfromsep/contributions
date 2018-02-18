@@ -1,6 +1,6 @@
 # README
 
-We use this repository to consolidate all monthly reports from our community contributors. Our LEAF reward to those contributors will be mostly based on these reports.
+We use this repository to consolidate all monthly reports from our community contributors. Our [LEAF](https://medium.com/loopring-protocol/a-brief-introduction-to-the-loopring-ecosystem-advancement-fund-2184c024b7df) reward to those contributors will be mostly based on these reports.
 
 ### How to submit your reports?
 
